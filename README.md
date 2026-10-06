@@ -2,7 +2,15 @@
 
 An interactive Power BI report for exploring AI tool performance and adoption from 2023 to 2026. Its overview page brings together headline metrics, usage trends, category and country comparisons, subscription mix, and company revenue.
 
-![AI Industry Analytics Dashboard](my_dashboard.png)
+<p align="center">
+  <img src="my_dashboard.png" alt="AI Industry Analytics Dashboard" width="900" />
+</p>
+
+<p align="center">
+  <img src="2.png" alt="Dashboard overview details" width="30%" />
+  <img src="3.png" alt="AI tools and analytics details" width="30%" />
+  <img src="4.png" alt="Business insights details" width="30%" />
+</p>
 
 ## Dashboard pages
 
